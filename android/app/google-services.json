@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497802109815",
+    "project_id": "authintcation-dec1c",
+    "storage_bucket": "authintcation-dec1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497802109815:android:b6e78b4db94e2d15df7772",
+        "android_client_info": {
+          "package_name": "com.example.blog_viewer_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Xdkjt-QgrEe1J8NxLbCOwusbqMkW7RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
